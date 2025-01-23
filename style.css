@@ -1,0 +1,305 @@
+.quicksand-normal {
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+
+.navbar, .intro, .cardsection{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icons{
+    display: flex;
+    align-items: center;
+}
+.navbar, .hero, .ham{
+    max-width: 1440px;
+    margin: 0px auto;
+}
+.school{
+    font-size: 32px;
+    font-weight: bold;
+}
+.menus a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.Home{
+    color: orange;
+    font-size: 20px;
+    font-weight: bold;
+}
+.About{
+    color: skyblue;
+}
+.Facilities{
+    color: #05D4DF;
+}
+.Admission{
+    color: #5D58EF;
+}
+.btn1{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    width: 197px;
+    padding: 10px 30px;
+    border-radius: 12px;
+    border: none;
+    background-color: orange;
+    color: white;
+}
+.ham{
+    display: flex;
+    justify-content: end;
+    position: relative;
+    top: -75px;
+}
+.ham img{
+    width: 50px; height: 50px;
+    display: none;
+}
+.break{
+    border: 1px solid orange;
+    width: 100%;
+    display: none;
+}
+.hero{
+
+}
+.bigtext{
+    font-size: 3rem;
+    font-weight: bold;
+
+}
+.empower{
+    color: orange;
+}
+.cardsection{
+    text-align: center;
+}
+.tv{
+    color: skyblue;
+}
+.subtext{
+    font-size: 0.8rem;
+    opacity: 0.9;
+    margin: 20px auto;
+}
+.kalobutton{
+    background-color: black;
+}
+
+
+
+
+
+
+.second{
+    max-width: 1440px;
+    margin: 0px auto;
+    padding: 0 50px;
+    margin: 60px auto 40px;
+    background-image: url(assets/bg.png);
+}
+.stn{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.section{
+    margin: 80px auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.sec{
+    
+    border-radius: 18.86px;
+    padding: 20px;
+    text-align: center;
+    max-width: 467px;
+}
+#sec1{
+    border: 0.2px solid rgb(232, 243, 248);
+    background-image: linear-gradient(to bottom, rgb(232, 244, 250), #FFFFFF);
+}
+#sec2{
+    border: 0.2px solid rgb(252, 239, 215);
+    background-image: linear-gradient(to bottom, rgb(253, 248, 237), #FFFFFF);
+}
+#sec3{
+    border: 0.2px solid rgb(248, 239, 241);
+    background-image: linear-gradient(to bottom, rgb(248, 242, 255), #FFFFFF);
+}
+.icon{
+    margin: 30px 0;
+}
+.st{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.sectext{
+    font-size: 1rem;
+    color: rgb(60, 60, 60);
+    margin: 30px;
+}
+.read{
+    color: #64C8FF;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.arrow{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+.our{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.a{
+    width: 50px;
+    height: 50px;
+}
+.a1{
+    transform: rotate(180deg);
+}
+.stories{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    padding: 60px 0px 100px;
+    background-image: url(assets/bg.png);
+    background-image: linear-gradient(to top, #fbce7f, #FFFFFF);
+}
+.our{
+    font-size: 46px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.row{
+    display: flex;
+    padding: 0 50px;
+}
+.collage{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 10px;
+}
+.chobii{
+    margin-right: 30px;
+}
+.babupic1{
+    width: 100%;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+.golbtn{
+    background-color: #05D4DF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 48px;
+    position: relative;
+    top: -25px;
+    left: 35px;
+    font-weight: bold;
+}
+.sobuj{
+    background-color: #95B226 ;
+}
+.nil{
+    background-color: #5D58F0;
+}
+.title{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.title2{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.sub{
+    font-size: 15.5px;
+    font-weight: 500;
+    color: rgb(87, 87, 87);
+}
+.b1{
+    text-align: center;
+    position: relative;
+    top: -80px;
+}
+.sada{
+    color: #f4f4f4;
+    text-decoration: none;
+    margin-bottom: 15px;
+}
+.jayga{
+    width: 400px;
+}
+footer{
+    margin-top: 0px;
+    display: flex;
+    gap: 50px;
+    padding: 100px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #64C8FF;
+}
+
+
+
+
+
+
+
+@media screen and (max-width:576px){
+    .ham img, .break{
+        display: block;
+    }
+    .menus{
+        display: none;
+    }
+    .contact{
+        display: none;
+    }
+    .intro{
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+    .kalobutton{
+        margin: 0px auto;
+        
+    }
+    .section{
+        flex-direction: column;
+    }
+    .chobii{
+        display: none;
+    }
+    .sobuj, .nil{
+        left: -20px;
+        font-size: 0.5rem;
+    }
+    .hr{
+        display: block;
+    }
+    footer{
+        flex-direction: column;
+    }
+    .dis{
+        display: inline;
+    }
+    .arrow{
+        display: none;
+    }
+}
